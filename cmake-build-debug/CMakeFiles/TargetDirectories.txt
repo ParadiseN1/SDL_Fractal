@@ -1,0 +1,3 @@
+/Users/sv/ucu/Semester 1/cpp/project/SDL_Fractal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sv/ucu/Semester 1/cpp/project/SDL_Fractal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sv/ucu/Semester 1/cpp/project/SDL_Fractal/cmake-build-debug/CMakeFiles/SDL_Fractal.dir

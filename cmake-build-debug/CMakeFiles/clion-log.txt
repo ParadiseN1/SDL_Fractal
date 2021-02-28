@@ -1,0 +1,34 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/sv/ucu/Semester 1/cpp/project/SDL_Fractal"
+
+-- CMAKE_BINARY_DIR: /Users/sv/ucu/Semester 1/cpp/project/SDL_Fractal/cmake-build-debug
+-- CMAKE_SOURCE_DIR: /Users/sv/ucu/Semester 1/cpp/project/SDL_Fractal
+-- CMAKE_COMMAND: /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake
+-- CMAKE_VERSION: 3.17.5
+-- CMAKE_C_COMPILER: /Library/Developer/CommandLineTools/usr/bin/cc
+-- CMAKE_PROJECT_NAME: SDL2_Basic_Setup
+-- CMAKE_FINDCMAKE: /Users/sv/ucu/Semester 1/cpp/project/SDL_Fractal/CMAKE
+
+-- SOURCE entry point : src/main.cppinc/fractal.hinc/julia_set.hsrc/graphics.cppinc/graphics.hinc/mandelbrot.hinc/zoom.h
+
+
+-- FINDING SDL2
+-- SDL2_FOUND: TRUE
+-- SDL2_INCLUDE_DIR:/usr/local/include/SDL2
+-- SDL2_LIBRARY: /usr/local/lib/libSDL2main.a/usr/local/lib/libSDL2.dylib-framework Cocoa
+
+-- FINDING SDL2_IMAGE
+-- SDL2_IMAGE_FOUND: TRUE
+-- SDL2_IMAGE_INCLUDE_DIR: /usr/local/include/SDL2
+-- SDL2_IMAGE_LIBRARY: /usr/local/lib/libSDL2_image.dylib
+
+-- FINDING SDL2TTF
+-- SDL2TTF_FOUND: TRUE
+-- SDL2TTF_INCLUDE_DIR: /usr/local/include/SDL2
+-- SDL2TTF_LIBRARY: /usr/local/lib/libSDL2_ttf.dylib/usr/local/lib/libSDL2_ttf.dylib-framework Cocoa
+
+-- FINDING SDL2Mixer
+-- SDL2Mixer_FOUND: TRUE
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/sv/ucu/Semester 1/cpp/project/SDL_Fractal/cmake-build-debug
